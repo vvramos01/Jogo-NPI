@@ -1,0 +1,28 @@
+header{ 
+    background-color: #bdedfc;
+    padding: 20px;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 20px;
+    }
+    h2{
+        text-align: center;
+    }
+    p{
+        text-align: right;
+    }
+    .iconep{
+        display: flex;
+        justify-content: left;
+    }
+   .iconemenu{
+      display: flex;
+      justify-content: end;
+   }
+   nav{
+       display: flex;
+       justify-content:space-between ;
+   }
+   img {
+    border-radius: 30px;
+  }
